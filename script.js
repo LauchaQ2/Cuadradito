@@ -51,12 +51,3 @@ function bottom(){
     return;
 }
 }
-    if(tpp>360){
-    tpp=360;
-    }
-    if(tpp>=0){
-    document.getElementById("cubo").style.marginTop = parseInt(tpp) + "px";
-} else {
-    return;
-}
-}
