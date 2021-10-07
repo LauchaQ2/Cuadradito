@@ -3,6 +3,7 @@
     height: 400px;
     border: 1px solid black;
     position: relative;
+    background-color: black;
 }
 .cubo{
     position: absolute;
